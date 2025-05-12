@@ -8,8 +8,7 @@ import openai
 
 # 🔐 توکن‌ها رو اینجا بذار
 BOT_TOKEN = "7345061819:AAF1T7zECDOiBGawR7Oq7zjNriVMpeTdtJk"
-OPENAI_API_KEY = "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"
-
+OPENAI_API_KEY = "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"
 # تنظیم کلید OpenAI
 openai.api_key = OPENAI_API_KEY
 
