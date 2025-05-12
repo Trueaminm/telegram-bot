@@ -7,8 +7,8 @@ from aiogram import F
 import openai
 
 # 🔐 توکن‌ها رو اینجا بذار
-BOT_TOKEN = "7345061819:AAF1T7zECDOiBGawR7Oq7zjNriVMpeTdtJk"
-OPENAI_API_KEY = "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"
+BOT_TOKEN = "BOT_TOKEN"
+OPENAI_API_KEY = "OPENAI_API_KEY"
 # تنظیم کلید OpenAI
 openai.api_key = OPENAI_API_KEY
 
